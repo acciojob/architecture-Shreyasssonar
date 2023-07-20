@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+ body {
+      font-family: Arial, sans-serif;
+      width: 1100px;
+      margin: 0 auto;
+    }
+
+    .imageContainer {
+      width: 100%;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 20px;
+    }
+
+    table td {
+      border: 1px solid #ccc;
+      text-align: center;
+    }
+
+    img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+    }
